@@ -1,0 +1,7 @@
+.DS_Store
+*.swp
+.idea/*
+*.iml
+testenv/Work/*
+testenv/Outputs/*
+testenv/Bin/protoc/*
