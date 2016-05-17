@@ -1,0 +1,4 @@
+- name: directly
+  value: 5
+- name: ThisIsYetAnotherConst
+  value: 113101

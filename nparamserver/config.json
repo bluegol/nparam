@@ -1,0 +1,9 @@
+{
+	"Serverport": 24444,
+
+	"Dbip": "10.44.44.4",
+	"Dbport": 3306,
+	"Dbuser": "nparam_test",
+	"Dbpasswd": "party",
+	"Dbname": "nparam_test"
+}
